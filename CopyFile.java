@@ -2,6 +2,7 @@ public class CopyArray {
     public static void main(String[] args) {        
              //Initialize array     '
         String s = "";
+        int n = s;
         int [] arr1 = new int [] {1, 2, 3, 4, 5};     
          //Create another array arr2 with size of arr1    
         int arr2[] = new int[arr1.length];    
